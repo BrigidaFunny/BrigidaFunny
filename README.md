@@ -7,9 +7,9 @@ GIT STATUS
 <p align="center">
   <a href="https://github.com/BrigidaFunny">
   <img height="right" width="500em" 
-       src="https://github-readme-stats.vercel.app/api?username=BrigidaFunny&show_icons=true&theme=doctreat&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=BrigidaFunny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="left" width="500em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidaFunny&layout=compact&langs_count=7&theme=doctreat"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidaFunny&layout=compact&langs_count=7&theme=dark"/>
    
    </p>
 
